@@ -1,0 +1,5 @@
+{
+    "portfolioAPI": "https://api.example.com/portfolio",
+    "recommendationsAPI": "https://api.example.com/recommendations",
+    "riskAPI": "https://api.example.com/risk"
+}

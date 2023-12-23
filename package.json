@@ -1,0 +1,34 @@
+{
+  "name": "ai-financial-portfolio-manager",
+  "version": "1.0.0",
+  "description": "A financial portfolio management tool integrating Google Cloud AI for data analysis, investment recommendations, and risk assessment.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/ai-financial-portfolio-manager.git"
+  },
+  "keywords": [
+    "AI",
+    "Finance",
+    "Portfolio Management",
+    "Google Cloud",
+    "Data Analysis",
+    "Investment Recommendations",
+    "Risk Assessment"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/ai-financial-portfolio-manager/issues"
+  },
+  "homepage": "https://github.com/yourusername/ai-financial-portfolio-manager#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
